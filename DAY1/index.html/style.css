@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+}
+#first{
+    color: rgb(255, 0, 212);
+}
+#second{
+    color: rgb(70, 197, 32);
+}
+.box{
+    color: rgb(226, 55, 43);
+    margin: 100px;
+    padding: 100px;
+    border: 2px;
+    border-style: dashed;
+    border :2px dashed rgb(222, 135, 135);
+    display: flex;
+    justify-content: center;
+    
+}
